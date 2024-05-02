@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Welcome to Forovo</string>
+    <string name="hello">Hello Mike!</string>
+    <string name="dropdown_menu">Dropdown Menu</string>
+    <string name="select_item">Select Food Stall Name and Rate</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register\n</string>
+    <string name="logout">LOGOUT</string>
+    <string name="title_activity_account">Account</string>
+    <!-- Strings used for fragments for navigation (dont care about below)-->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="fovoro">Fovoro</string>
+    <string name="title_activity_review">ReviewActivity</string>
+
+
+    <string name="ing">Ingredients</string>
+
+    <string name="chickenrice">Stall 1: Chicken Rice</string>
+
+    <string name="chi_item_1">Steamed/Roasted Chicken Rice</string>
+    <string name="chi_price_1">Price: 3.60</string>
+    <string name="chi_des_1">Steamed or roasted chicken, Fragrant steamed or roasted rice</string>
+
+    <string name="chi_item_2">Bean Curd</string>
+    <string name="chi_price_2">Price: 0.80</string>
+    <string name="chi_des_2">Bean curd (tofu)</string>
+
+    <string name="chi_item_3">Braised Egg</string>
+    <string name="chi_price_3">Price: 0.80</string>
+    <string name="chi_des_3">Hard-boiled eggs, Flavorful braising sauce</string>
+
+    <string name="chi_item_4">Oyster Sauce Bean Sprouts</string>
+    <string name="chi_price_4">Price: 2.50</string>
+    <string name="chi_des_4">Bean sprouts, Oyster sauce, Garlic, Cooking oil</string>
+
+    <string name="chi_item_5">Xiao Bai Cai</string>
+    <string name="chi_price_5">Price: 2.50</string>
+    <string name="chi_des_5">Xiao Bai Cai (baby bok choy), Garlic, Cooking oil</string>
+
+    <string name="chi_item_6">Whole Roasted Chicken</string>
+    <string name="chi_price_6">Price: 30.30</string>
+    <string name="chi_des_6">Whole chicken, Seasoning</string>
+
+    <string name="chi_item_7">Macaroni Soup</string>
+    <string name="chi_price_7">Price: 1.00</string>
+    <string name="chi_des_7">Macaroni pasta, Flavorful broth, Vegetables, Meat (optional),
+        Herbs</string>
+
+
+    <!--Moving on to stall 2, drinks stall (7th along row)-->
+
+    <string name="drinks">Stall 7: Drinks</string>
+
+    <string name="dri_item_1">Milo (Hot/Cold)</string>
+    <string name="dri_price_1">Price: 1.50(Hot)/1.00(Cold)</string>
+    <string name="dri_des_1">Milo powder, Milk (hot) or Water (cold)</string>
+
+    <string name="dri_item_2">Kopi/ Kopi C / Kopi O / Kopi O Kosong (Hot/Cold)</string>
+    <string name="dri_price_2">Price: 1.00(Hot)/0.80(Cold)</string>
+    <string name="dri_des_2">Robusta coffee beans, Sugar, Corn starch, Margarine or butter,
+        Condensed milk (optional)</string>
+
+    <string name="dri_item_3">Teh/Teh C/Teh O (with Ice/No Ice)</string>
+    <string name="dri_price_3">Price: 1.20(Hot)/1.00(Cold)</string>
+    <string name="dri_des_3">Tea leaves, Evaporated or condensed milk (Teh C), Ice or No ice</string>
+
+    <string name="dri_item_4">Iced Lemon Tea (with Ice/No Ice)</string>
+    <string name="dri_price_4">Price: 1.50(with ice)/2.00(No Ice)</string>
+    <string name="dri_des_4">Black tea, Lemon juice, Sweetener (sugar or syrup), Ice or No ice</string>
+
+    <string name="dri_item_5">Apple Juice (with Ice/No Ice)</string>
+    <string name="dri_price_5">Price: 1.50(with ice)/2.00(No Ice)</string>
+    <string name="dri_des_5">Pressed apple juice, Ice or No ice</string>
+
+    <string name="dri_item_6">Orange Juice (with Ice/No Ice)</string>
+    <string name="dri_price_6">Price: 2.00(with Ice)/2.50(No Ice)</string>
+    <string name="dri_des_6">Freshly squeezed orange juice, Ice or No ice</string>
+
+    <!--Moving on to stall 3, (Un)Healthy Soup stall (4th along row)-->
+
+    <string name="healthysoup">Stall 4: Healthy Soup</string>
+
+    <string name="hts_item_1">Pork Rib Soup</string>
+    <string name="hts_price_1">Price: 3.60</string>
+    <string name="hts_des_1">Pork ribs, Vegetables (carrots, celery, onions), Aromatic herbs
+        (such as bay leaves, thyme), Salt, Pepper, Water</string>
+
+    <string name="hts_item_2">Vegetable Chicken Soup</string>
+    <string name="hts_price_2">Price: 3.50</string>
+    <string name="hts_des_2">Chicken breast or thigh, Fresh vegetables (such as carrots, potatoes,
+        celery), Chicken broth, Garlic, Onion, Salt, Pepper</string>
+
+
+    <!--Moving on to stall 4, Indian stall (2nd along row)-->
+
+    <string name="indian">Stall 2: Indian</string>
+
+    <string name="ind_item_1">Biriyani Rice</string>
+    <string name="ind_price_1">Price: 3.50</string>
+    <string name="ind_des_1">Long-grain basmati rice, Aromatic spices, Meat or vegetables
+        (chicken, lamb, or vegetables such as potatoes, carrots, peas), Ghee or oil</string>
+
+    <string name="ind_item_2">White Rice (with curry)</string>
+    <string name="ind_price_2">Price: 2.50</string>
+    <string name="ind_des_2">Steamed rice, Curry (vegetarian or meat-based)</string>
+
+    <string name="ind_item_3">Tamarind Rice</string>
+    <string name="ind_price_3">Price: 4.00</string>
+    <string name="ind_des_3">Cooked rice, Tamarind paste, Spices (such as mustard seeds, dried
+        red chilies, turmeric), Peanuts, Curry leaves</string>
+
+    <string name="ind_item_4">Add vegetables</string>
+    <string name="ind_price_4">Price: 0.80 each</string>
+    <string name="ind_des_4">Assorted vegetables (carrots, peas, potatoes, bell peppers,
+        etc.)</string>
+
+    <string name="ind_item_5">Mutton Curry</string>
+    <string name="ind_price_5">Price: 3.00</string>
+    <string name="ind_des_5">Mutton (goat meat), Aromatic spices (such as cardamom, cinnamon,
+        cloves), Onions, Tomatoes, Ginger, Garlic, Yogurt</string>
+
+    <string name="ind_item_6">Chicken Tikka</string>
+    <string name="ind_price_6">Price: 2.50</string>
+    <string name="ind_des_6">Chicken breast, Yogurt, Lemon juice, Garlic, Ginger, Aromatic spices
+        (such as cumin, coriander, paprika), Oil</string>
+
+
+    <!--Moving on to stall 5, Japanese stall-->
+
+    <string name="japanese">Stall 5: Japanese</string>
+
+    <string name="jap_item_1">Crispy Chicken Don</string>
+    <string name="jap_price_1">Price: 5.50</string>
+    <string name="jap_des_1">Chicken breast, Flour, Cornstarch, Egg, Soy sauce, Mirin, Rice vinegar,
+        Sugar, Garlic, Ginger, Vegetable oil, Steamed rice, Sesame seeds, Green onions</string>
+
+    <string name="jap_item_2">Salmon Don</string>
+    <string name="jap_price_2">Price: 6.50</string>
+    <string name="jap_des_2">Salmon fillet, Soy sauce, Mirin, Sugar, Sesame oil, Steamed rice</string>
+
+    <string name="jap_item_3">Chicken Teriyaki Don</string>
+    <string name="jap_price_3">Price: 6.00</string>
+    <string name="jap_des_3">Chicken thigh or breast, Soy sauce, Mirin, Sugar, Garlic, Ginger,
+        Vegetable oil, Steamed rice</string>
+
+    <string name="jap_item_4">Beef Don</string>
+    <string name="jap_price_4">Price: 6.00</string>
+    <string name="jap_des_4">Thinly sliced beef (such as ribeye or sirloin), Onion, Soy sauce,
+        Mirin, Sugar, Dashi (Japanese soup stock), Steamed rice</string>
+
+    <string name="jap_item_5">Chicken Udon</string>
+    <string name="jap_price_5">Price: 6.00</string>
+    <string name="jap_des_5">Udon noodles, Chicken breast or thigh, Dashi (Japanese soup stock),
+        Soy sauce, Mirin, Sugar, Green onions, Shiitake mushrooms, Kamaboko (fish cake),
+        Nori (seaweed)</string>
+
+
+    <!--Moving on to stall 6, Mixed Veg Rice stall-->
+
+    <string name="caifan">Stall 6: Mixed Veg Rice</string>
+
+    <string name="cai_item_1">Caifan</string>
+    <string name="cai_price_1">Basic Price: 3.00</string>
+    <string name="cai_des_1">Steamed rice, Various meat dishes (e.g., chicken, pork, beef),
+        Various vegetable dishes (e.g., stir-fried vegetables, braised tofu), Soy sauce,
+        Oyster sauce, Cooking oil, Spices and seasonings (e.g., garlic, ginger, green onions)</string>
+
+    <string name="cai_item_2">Add meat</string>
+    <string name="cai_price_2">Price: 0.75 (each)</string>
+    <string name="cai_des_2">Varies depending on the meat dish added</string>
+
+    <string name="cai_item_3">Add vegetables</string>
+    <string name="cai_price_3">Price: 0.50 (each)</string>
+    <string name="cai_des_3">Varies depending on the vegetable dish added</string>
+
+
+    <!--Moving on to stall 7, Muslim stall(9th along row)-->
+
+    <string name="muslim">Stall 9: Muslim</string>
+
+    <string name="mus_item_1">Nasi Lemak</string>
+    <string name="mus_price_1">Price: 3.50</string>
+    <string name="mus_des_1">Steamed coconut rice, Sambal (spicy chili paste), Fried anchovies,
+        Roasted peanuts, Sliced cucumbers, Hard-boiled or fried egg, Optional additional
+        ingredients: Fried chicken, Fried fish, Sambal squid</string>
+
+    <string name="mus_item_2">Mee Siam</string>
+    <string name="mus_price_2">Price: 4.50</string>
+    <string name="mus_des_2">Rice vermicelli noodles, Tamarind paste, Dried shrimp, Bean sprouts,
+        Firm tofu, Chopped garlic, Shallots, Red chili, Eggs, Chives, Spring onions,
+        Lime wedges</string>
+
+
+    <!--Moving on to stall 8, Noodles stall-->
+
+    <string name="noodles">Stall 8: Noodles</string>
+
+    <string name="noo_item_1">Char Siew Noodles</string>
+    <string name="noo_price_1">Price: 3.50</string>
+    <string name="noo_des_1">Egg noodles, Char siu (Chinese BBQ pork), Choy sum
+        (Chinese leafy green vegetables), Spring onions, Soy sauce, Oyster sauce</string>
+
+    <string name="noo_item_2">Soup Noodles</string>
+    <string name="noo_price_2">Price: 4.50</string>
+    <string name="noo_des_2">Choice of noodles (such as rice noodles or egg noodles), Chicken or
+        pork broth, Sliced meat (chicken or pork), Bean sprouts, Bok choy, Spring onions,
+        Fried shallots, Soy sauce, Sesame oil</string>
+
+    <string name="noo_item_3">Ban Mian</string>
+    <string name="noo_price_3">Price: 5.00</string>
+    <string name="noo_des_3">Hand-pulled noodles, Clear soup or tomato-based broth, Minced meat
+        (pork or chicken), Mushrooms, Bok choy, Fried anchovies, Fried shallots, Chili paste
+        (optional)</string>
+
+
+    <!--Moving on to stall 9, taiWanese stall (3rd along row)-->
+
+    <string name="taiwanese">Stall 3: Taiwanese</string>
+
+    <string name="tai_item_1">Chicken Wings</string>
+    <string name="tai_price_1">Price: 3.50</string>
+    <string name="tai_des_1">Chicken wings, Marinade (such as soy sauce, garlic, ginger, and chili),
+        Cooking oil for frying</string>
+
+    <string name="tai_item_2">Hot and Sour Chicken Rice</string>
+    <string name="tai_price_2">Price: 4.50</string>
+    <string name="tai_des_2">Chicken breast, Rice, Vegetables (such as bell peppers, carrots, and
+        onions), Pineapple chunks (optional), Sauce (including vinegar, soy sauce, sugar, and chili
+        sauce)</string>
+
+</resources>

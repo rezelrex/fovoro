@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "190018249393",
+    "firebase_url": "https://sutd-android-7e41f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sutd-android-7e41f",
+    "storage_bucket": "sutd-android-7e41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190018249393:android:f33f46b5276ded50533890",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1ClMnm0JZTTCQoLGrQo_b71IbG6djp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
